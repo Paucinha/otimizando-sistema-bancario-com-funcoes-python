@@ -1,6 +1,5 @@
 # Desafio: Otimizando o Sistema Bancário com Funções Python
 
-DESCRIÇÃO
 Neste desafio, você terá a oportunidade de otimizar o Sistema Bancário previamente desenvolvido com o uso de funções Python. O objetivo é aprimorar a estrutura e a eficiência do sistema, implementando as operações de depósito, saque e extrato em funções específicas. Você terá a chance de refatorar o código existente, dividindo-o em funções reutilizáveis, facilitando a manutenção e o entendimento do sistema como um todo. Prepare-se para aplicar conceitos avançados de programação e demonstrar sua habilidade em criar soluções mais elegantes e eficientes utilizando Python.
 
 **Python**
@@ -29,7 +28,7 @@ A função depósito deve receber os argumentos apenas por posição (positional
 
 ## Extrato
 
-A função extrato deve receber os argumentos por posição e nome (positional Only e keywords Only). Argumentos posicionais: saldo, argumentos nomeados: extrato.
+A função extrato deve receber os argumentos por posição e nome (positional only e keywords only). Argumentos posicionais: saldo, argumentos nomeados: extrato.
 
 ## Novas funções
 
@@ -43,14 +42,7 @@ O programa deve armazenar os usuários em uma lista, um usuário é composto por
 
 Programa deve armazenar contas em uma lista, uma conta é composta por: agência, número da conta e usuário. O número da conta é sequencial, iniciando em 1. O número da agência é fixo: “0001”. O usuário pode ter mais de uma conta, mas uma conta pertence a somente um usuário.
  
-:exclamation: Vincular um usuário a uma conta, filtre a lista de usuários buscando o número do CPF, informando para cada usuário da lista.
-
-
-
-
-
-
-
+:exclamation: **Dica:** Vincular um usuário a uma conta, filtre a lista de usuários buscando o número do CPF, informando para cada usuário da lista.
 
 ![text](https://assets.dio.me/IwGGaOEYVw9pPUMVGEaqp7eKn1gV22wDOHmmAmI0zDY/f:webp/h:221/q:80/L3RyYWNrcy9jb3Zlci83OWZiNzhkZC0xNTQ3LTQ0N2YtYTNkOC04ZGQwMWU1YWMzNTEucG5n)
 
