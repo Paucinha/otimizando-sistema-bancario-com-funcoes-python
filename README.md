@@ -7,6 +7,17 @@ Neste desafio, você terá a oportunidade de otimizar o Sistema Bancário previa
 
 **Back-End | Avançado**
 
+## Objetivo
+
+Separar as funções existentes de saque, depósito e extrato em funções; Criar duas novas funções: cadastrar usuário (cliente) e cadastrar conta bancária.
+
+## Desafio
+
+Precisamos deixar nosso código maís modularizado, para isso vamos criar fuções para s operações existentes: sacar, depositar e visualizar histórico. Além disso, para a versão 2 do nosso sistema precisamos criar duas novas funções: criar usuário (cliente do banco) e criar conta corrente (vincular com usu´rio).
+
+## Separação em funções
+
+
 
 
 
